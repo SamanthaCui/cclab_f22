@@ -1,7 +1,7 @@
 let radius = 200;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(300, 300);
   background(0);
 }
 
